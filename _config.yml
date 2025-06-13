@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://github.com/beaverneee/beaverneee.github.io/blob/8290491e3c7d64f0607415f81e7390f74543242b/assets/img/favicons/Main_Profile_test.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
